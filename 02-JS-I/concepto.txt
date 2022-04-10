@@ -1,0 +1,11 @@
+Las variables son en si un lugar donde gaurdamos valores ya sea numericos o de caracter que por medio de las 
+palabras reservadas podemos acceder a ellas.
+
+Los String son cadenas de texto o de caracteres.
+Una Funcion es donde se agrupa codigo, para no estar escribiendolo varias veces y usarlo las veces que sea y nos 
+regresa el valor de esa ejecusión.
+
+La declacion if es un control de flujo de codigo, que si la condicion se cumple se ejecutara y si no la coificacion terminara
+sin devolver nada.
+
+Un valor booleano es que si la condicion es verdadera o falsa, dependiendo de si la condicion se cumple es decir si es cierto o falso \
